@@ -7,15 +7,6 @@ As visualizações foram construídas no **Power BI** utilizando um dataset do K
 
 ---
 
-## 📊 Dashboard (Power BI)
-
-O dashboard completo está disponível em:
-
-- `Power_BI/Credit Card Customer Retention & Churn Analysis.pbix`  
-- `Power_BI/churn_dashboard.png` (imagem)
-
----
-
 ## ⚠️ Sobre o arquivo PBIX
 
 O arquivo `.pbix` utiliza um **dataset externo** do Kaggle.  
